@@ -1,0 +1,20 @@
+body
+{
+    background: white
+}
+
+#num1-el
+{
+    color: black
+}
+
+#num2-el
+{
+    color: black
+    
+}
+
+#sum-el{
+    color: black;
+    background-color: orange;
+}
